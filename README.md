@@ -66,7 +66,6 @@ Quantum Architecture Search (QAS) is an automated framework that combines machin
 - [Reinforcement learning with learned gadgets to tackle hard quantum problems on real hardware (2025)](https://arxiv.org/abs/2411.00230) integrates reinforcement learning with program synthesis to design quantum circuits for complex tasks. By incorporating composite gates (gadgets) into the action space, GRL enhances the exploration of parameterized quantum circuits (PQCs) for tasks such as approximating ground states of quantum Hamiltonians.
 
 ## Survays and Reviews
-
 - [A Brief Survey of Quantum Architecture Search](https://dl.acm.org/doi/10.1145/3564982.3564989) summarizes QAS approaches **till 2023**.
 - [Quantum Architecture Search: A Survey](https://arxiv.org/abs/2406.06210) most recent survay containing result till the **the middle of 2024**.
 - [Reinforcement learning-assisted quantum architecture search for variational quantum algorithms](https://arxiv.org/abs/2402.13754) Appendix B contains a summary and motive of various QAS approaches till **the end of 2024**.
@@ -79,7 +78,6 @@ Quantum Architecture Search (QAS) is an automated framework that combines machin
 - [CRLQAS: Curriculum reinforcement learning for quantum architecture search under hardware errors](https://arxiv.org/abs/2402.03500) statte-of-the-art RL for QAS approach. Github: https://anonymous.4open.science/r/CRLQAS/README.md
 
 ## Talks and Tutotials
-
 - [WQCG, Episode LVII Quantum Architecture Search by Mateusz Ostaszewski](https://www.youtube.com/watch?v=9-UeP0vIv2U)
 - [AQIS2020 - Quantum circuit architecture search by Yuxuan Du](https://www.youtube.com/watch?v=xIwYV3v8tV4)
 - [Quantum Neural Architecture Search with Quantum Circuits Distance and Bayesian Optimization by Trong Duong](https://www.youtube.com/watch?v=b5Ay3gnoZiM)
@@ -87,7 +85,6 @@ Quantum Architecture Search (QAS) is an automated framework that combines machin
 - [Kolmogorov-Arnold Network for quantum architecture search](https://www.youtube.com/watch?v=gpYoFFnbhu4&t=5862s): From 1:35:07.
 
 ## Contributing
-
 Please follow these steps to contribute:
 
 1. Fork the repo.
@@ -96,5 +93,4 @@ Please follow these steps to contribute:
 4. Create a Pull Request, and provide a brief description of the changes.
 
 ## License
-
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
