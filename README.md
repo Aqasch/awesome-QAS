@@ -6,17 +6,17 @@ A curated list of standout libraries, tutorials, research papers, and essential 
 ## Table of Contents
 
 - [Awesome QAS (Quantum Architecture Search)](#awesome-qas)
-  - [Table of Contents](#table-of-contents)
-  - [Quantum Architecture Search](#qas)
-  - [Papers](#papers)
-  - [Survays and Reviews](#survay_review)
-  - [Libraries and Benchmarks](#libraries)
-  - [Talks and Tutotials](#tutorials)
-  - [Contributing](#contributing)
-  - [License](#license)
+- [Table of Contents](#table-of-contents)
+- [Quantum Architecture Search](#qas)
+- [Papers](#papers)
+- [Survays and Reviews](#survay-review)
+- [Libraries and Benchmarks](#libraries)
+- [Talks and Tutotials](#tutorials)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Quantum Architecture Search
-
+Quantum Architecture Search (QAS) is an automated framework that combines machine learning and optimization techniques to design noise-resilient quantum circuits with minimal depth and gate counts, tailored to specific computational tasks and hardware constraints. This process addresses the critical challenge of balancing expressivity (the ability to model complex problems) with practical limitations like quantum noise and hardware connectivity.
 
 ## Papers
 
