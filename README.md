@@ -4,7 +4,6 @@ A curated list of standout libraries, tutorials, research papers, and essential 
 ![QAS](https://github.com/Aqasch/awesome-qas/blob/main/assets/papers_per_year.png)
 
 ## Table of Contents
-
 - [Awesome QAS (Quantum Architecture Search)](#awesome-qas-quantum-architecture-search)
 - [Table of Contents](#table-of-contents)
 - [Quantum Architecture Search](#qas)
