@@ -9,9 +9,9 @@ A curated list of standout libraries, tutorials, research papers, and essential 
 - [Table of Contents](#table-of-contents)
 - [Quantum Architecture Search](#qas)
 - [Papers](#papers)
-- [Survays and Reviews](#survay-review)
-- [Libraries and Benchmarks](#libraries)
-- [Talks and Tutotials](#tutorials)
+- [Survays and Reviews](#survays-reviews)
+- [Libraries and Benchmarks](#libraries-and-benchmarks)
+- [Talks and Tutotials](#talks-and-tutotials)
 - [Contributing](#contributing)
 - [License](#license)
 
