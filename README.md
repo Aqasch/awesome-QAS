@@ -49,5 +49,5 @@ A curated list of standout libraries, projects, tutorials, influential research 
 - [Reinforcement learning-assisted quantum architecture search for variational quantum algorithms](https://arxiv.org/abs/2402.13754) Appendix B contains a summary and motive of various QAS approaches till **the end of 2024**.
 
 ## Libraries and benchmark
-- [QAS-Bench: Rethinking Quantum Architecture Search and A Benchmark](https://openreview.net/forum?id=Fu8URyrpiY) one of the very first QAS benchmarking libraries. Github: https://github.com/Lucky-Lance/QAS-Bench. ![Github stars](https://img.shields.io/github.com/Lucky-Lance/QAS-Bench.svg)
+- [QAS-Bench: Rethinking Quantum Architecture Search and A Benchmark](https://openreview.net/forum?id=Fu8URyrpiY) one of the very first QAS benchmarking libraries. Github: https://github.com/Lucky-Lance/QAS-Bench. ![Github stars](https://img.shields.io/github/stars/Lucky-Lance/QAS-Bench.svg)
 - 
