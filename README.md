@@ -10,7 +10,7 @@ A curated list of standout libraries, tutorials, research papers, and essential 
 - [Table of Contents](#table-of-contents)
 - [Quantum Architecture Search](#qas)
 - [Papers](#papers)
-- [Survays and Reviews](#survays-reviews)
+- [Surveys and Reviews](#surveys-reviews)
 - [Libraries and Benchmarks](#libraries-and-benchmarks)
 - [Talks and Tutotials](#talks-and-tutotials)
 - [Contributing](#contributing)
@@ -67,7 +67,7 @@ Quantum Architecture Search (QAS) is an automated framework that combines machin
 - [Reinforcement learning with learned gadgets to tackle hard quantum problems on real hardware (2025)](https://arxiv.org/abs/2411.00230) integrates reinforcement learning with program synthesis to design quantum circuits for complex tasks. By incorporating composite gates (gadgets) into the action space, GRL enhances the exploration of parameterized quantum circuits (PQCs) for tasks such as approximating ground states of quantum Hamiltonians.
 - [Scaling the Automated Discovery of Quantum Circuits via Reinforcement Learning with Gadgets](https://arxiv.org/abs/2503.11638) presents a novel approach to enhancing the scalability of reinforcement learning in quantum circuit design. The main objective is to address the challenges associated with RL's limited scalability due to the exponential increase in computation times with growing circuit complexity. The authors utilize the concept of "gadgets" which are composite gates that can be incorporated into RL frameworks to improve efficiency and enable the discovery of highly complex quantum codes.
 
-## Survays and Reviews
+## Surveys and Reviews
 - [A Brief Survey of Quantum Architecture Search](https://dl.acm.org/doi/10.1145/3564982.3564989) summarizes QAS approaches **till 2023**.
 - [Quantum Architecture Search: A Survey](https://arxiv.org/abs/2406.06210) most recent survay containing result till the **the middle of 2024**.
 - [Reinforcement learning-assisted quantum architecture search for variational quantum algorithms](https://arxiv.org/abs/2402.13754) Appendix B contains a summary and motive of various QAS approaches till **the end of 2024**.
