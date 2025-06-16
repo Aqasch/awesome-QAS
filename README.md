@@ -1,6 +1,6 @@
 # awesome-QAS
 A curated list of standout libraries, projects, tutorials, influential research papers, and essential resources focused on Quantum Architecture Search (QAS). This collection is designed to serve as a structured and thorough reference, empowering researchers and developers to accelerate their work and stay at the forefront of QAS advancements.
-![QAS](https://drive.google.com/file/d/1970FcrARhpTCaCQNr32PNl-7Uxp74ngS/view?usp=drive_link)
+![QAS](https://ibb.co/Myc3f4vk)
 
 ## Table of contents
 
