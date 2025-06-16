@@ -50,4 +50,4 @@ A curated list of standout libraries, projects, tutorials, influential research 
 
 ## Libraries and benchmark
 - [QAS-Bench: Rethinking Quantum Architecture Search and A Benchmark](https://openreview.net/forum?id=Fu8URyrpiY) one of the very first QAS benchmarking libraries. Github: https://github.com/Lucky-Lance/QAS-Bench. ![Github stars](https://img.shields.io/github/stars/Lucky-Lance/QAS-Bench.svg)
-- 
+- [Reinforcement learning for optimization of variational quantum circuit architectures] one of the very first RL for QAS open libraries. Github: https://github.com/mostaszewski314/RL_for_optimization_of_VQE_circuit_architectures/tree/main. ![Github stars](https://img.shields.io/github/stars/mostaszewski314/RL_for_optimization_of_VQE_circuit_architectures.svg) 
