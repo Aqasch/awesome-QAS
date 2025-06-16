@@ -1,9 +1,22 @@
-# awesome-QAS
+# Awesome QAS (Quantum Architecture Search)
 A curated list of standout libraries, tutorials, research papers, and essential resources focused on Quantum Architecture Search (QAS). This collection is designed to serve as a structured and thorough reference, empowering researchers and developers to accelerate their work and stay at the forefront of QAS advancements.
 
 ![QAS](https://github.com/Aqasch/awesome-qas/blob/main/assets/papers_per_year.png)
 
-## Table of contents
+## Table of Contents
+
+- [Awesome QAS (Quantum Architecture Search)](#awesome-qas)
+  - [Table of Contents](#table-of-contents)
+  - [Quantum Architecture Search](#qas)
+  - [Papers](#papers)
+  - [Survays and Reviews](#survay_review)
+  - [Libraries and Benchmarks](#libraries)
+  - [Talks and Tutotials](#tutorials)
+  - [Contributing](#contributing)
+  - [License](#license)
+
+## Quantum Architecture Search
+
 
 ## Papers
 
@@ -52,23 +65,36 @@ A curated list of standout libraries, tutorials, research papers, and essential 
 - [RhoDARTS: Differentiable Quantum Architecture Search with Density Matrix Simulations (2025)](https://arxiv.org/abs/2506.03697) models the search process as the evolution of a quantum mixed state, emerging from the search space of quantum architectures. The algorithm is designed to address the challenge of identifying effective Quantum Neural Network (QNN) architectures for general machine learning tasks by approaching QAS from a quantum perspective.
 - [Reinforcement learning with learned gadgets to tackle hard quantum problems on real hardware (2025)](https://arxiv.org/abs/2411.00230) integrates reinforcement learning with program synthesis to design quantum circuits for complex tasks. By incorporating composite gates (gadgets) into the action space, GRL enhances the exploration of parameterized quantum circuits (PQCs) for tasks such as approximating ground states of quantum Hamiltonians.
 
-## Survays
+## Survays and Reviews
 
 - [A Brief Survey of Quantum Architecture Search](https://dl.acm.org/doi/10.1145/3564982.3564989) summarizes QAS approaches **till 2023**.
 - [Quantum Architecture Search: A Survey](https://arxiv.org/abs/2406.06210) most recent survay containing result till the **the middle of 2024**.
 - [Reinforcement learning-assisted quantum architecture search for variational quantum algorithms](https://arxiv.org/abs/2402.13754) Appendix B contains a summary and motive of various QAS approaches till **the end of 2024**.
 
-## Libraries and benchmark
+## Libraries and Benchmarks
 - [QAS-Bench: Rethinking Quantum Architecture Search and A Benchmark](https://openreview.net/forum?id=Fu8URyrpiY) one of the very first QAS benchmarking libraries. Github: https://github.com/Lucky-Lance/QAS-Bench. ![Github stars](https://img.shields.io/github/stars/Lucky-Lance/QAS-Bench.svg)
 - [Quantum circuit architecture search: error mitigation and trainability enhancement for variational quantum solvers](https://www.nature.com/articles/s41534-022-00570-y) one of the very first DRL for QAS open source libraries. Github: https://github.com/yuxuan-du/Quantum_architecture_search. ![Github stars](https://img.shields.io/github/stars/yuxuan-du/Quantum_architecture_search.svg)
 - [Reinforcement learning for optimization of variational quantum circuit architectures]((https://proceedings.neurips.cc/paper/2021/hash/9724412729185d53a2e3e7f889d9f057-Abstract.html)) one of the very first RL for QAS open libraries. Github: https://github.com/mostaszewski314/RL_for_optimization_of_VQE_circuit_architectures/tree/main. ![Github stars](https://img.shields.io/github/stars/mostaszewski314/RL_for_optimization_of_VQE_circuit_architectures.svg) 
 - [Reinforcement learning with learned gadgets to tackle hard quantum problems on real hardware](https://arxiv.org/abs/2411.00230) GRL for QAS. Github: https://github.com/Aqasch/Gadget_RL. ![Github stars](https://img.shields.io/github/stars/Aqasch/Gadget_RL.svg)
 - [CRLQAS: Curriculum reinforcement learning for quantum architecture search under hardware errors](https://arxiv.org/abs/2402.03500) statte-of-the-art RL for QAS approach. Github: https://anonymous.4open.science/r/CRLQAS/README.md
 
-## Talks and tutotials:
+## Talks and Tutotials
 
 - [WQCG, Episode LVII Quantum Architecture Search by Mateusz Ostaszewski](https://www.youtube.com/watch?v=9-UeP0vIv2U)
 - [AQIS2020 - Quantum circuit architecture search by Yuxuan Du](https://www.youtube.com/watch?v=xIwYV3v8tV4)
 - [Quantum Neural Architecture Search with Quantum Circuits Distance and Bayesian Optimization by Trong Duong](https://www.youtube.com/watch?v=b5Ay3gnoZiM)
 - [Application of ZX-calculus to Quantum Architecture Search by Tom Ewen](https://www.youtube.com/watch?v=7rVUGd6W7kY)
-- [Kolmogorov-Arnold Network for quantum architecture search](https://www.youtube.com/watch?v=gpYoFFnbhu4&t=5862s): From 1:35:07. 
+- [Kolmogorov-Arnold Network for quantum architecture search](https://www.youtube.com/watch?v=gpYoFFnbhu4&t=5862s): From 1:35:07.
+
+## Contributing
+
+Please follow these steps to contribute:
+
+1. Fork the repo.
+2. Create a new branch (e.g., `feature/new-qas`).
+3. Commit your changes to the new branch.
+4. Create a Pull Request, and provide a brief description of the changes.
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
