@@ -81,6 +81,7 @@ Quantum Architecture Search (QAS) is an automated framework that combines machin
 - [Reinforcement learning with learned gadgets to tackle hard quantum problems on real hardware](https://arxiv.org/abs/2411.00230) GRL for QAS. Github: https://github.com/Aqasch/Gadget_RL. ![Github stars](https://img.shields.io/github/stars/Aqasch/Gadget_RL.svg)
 - [CRLQAS: Curriculum reinforcement learning for quantum architecture search under hardware errors](https://arxiv.org/abs/2402.03500) state-of-the-art RL for QAS approach. Github: https://anonymous.4open.science/r/CRLQAS/README.md
 - [Quantum circuit synthesis with diffusion models](https://arxiv.org/abs/2311.02041) Diffusion model for QAS. Github: https://github.com/FlorianFuerrutter/genQC. ![Github stars](https://img.shields.io/github/stars/FlorianFuerrutter/genQC.svg)
+- [KANQAS:Kolmogorov-Arnold Network for Quantum Architecture Search (2024)](https://arxiv.org/abs/2406.17630) KAN for QAS. Github: [https://github.com/FlorianFuerrutter/genQC](https://github.com/Aqasch/KANQAS_code). ![Github stars](https://img.shields.io/github/stars/Aqasch/KANQAS_code.svg)
 
 ## Talks and Tutotials
 - :video_camera: [WQCG, Episode LVII Quantum Architecture Search by Mateusz Ostaszewski](https://www.youtube.com/watch?v=9-UeP0vIv2U)
