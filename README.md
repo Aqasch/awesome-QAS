@@ -1,7 +1,7 @@
 # Awesome QAS (Quantum Architecture Search)
-![Awesome](https://awesome.re/badge.svg)
+![Awesome](https://awesome.re/badge.svg) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-A curated list of standout libraries, tutorials, research papers, and essential resources focused on Quantum Architecture Search (QAS). This collection is designed to serve as a structured and thorough reference, empowering researchers and developers to accelerate their work and stay at the forefront of QAS advancements.
+A curated list of standout libraries, tutorials, research papers, and essential resources focused on Quantum Architecture Search (QAS). This collection is designed to serve as a structured and thorough reference, empowering researchers and developers to accelerate their work and stay at the forefront of QAS advancements. Last updated: 6/25
 
 ![QAS](https://github.com/Aqasch/awesome-qas/blob/main/assets/papers_per_year.png)
 
@@ -80,7 +80,7 @@ Quantum Architecture Search (QAS) is an automated framework that combines machin
 - [Reinforcement learning for optimization of variational quantum circuit architectures]((https://proceedings.neurips.cc/paper/2021/hash/9724412729185d53a2e3e7f889d9f057-Abstract.html)) one of the very first RL for QAS open libraries. Github: https://github.com/mostaszewski314/RL_for_optimization_of_VQE_circuit_architectures/tree/main. ![Github stars](https://img.shields.io/github/stars/mostaszewski314/RL_for_optimization_of_VQE_circuit_architectures.svg) 
 - [Reinforcement learning with learned gadgets to tackle hard quantum problems on real hardware](https://arxiv.org/abs/2411.00230) GRL for QAS. Github: https://github.com/Aqasch/Gadget_RL. ![Github stars](https://img.shields.io/github/stars/Aqasch/Gadget_RL.svg)
 - [CRLQAS: Curriculum reinforcement learning for quantum architecture search under hardware errors](https://arxiv.org/abs/2402.03500) state-of-the-art RL for QAS approach. Github: https://anonymous.4open.science/r/CRLQAS/README.md
-- [Quantum circuit synthesis with diffusion models](https://arxiv.org/abs/2311.02041) Diffusion model for QAS. Github: https://github.com/FlorianFuerrutter/genQC.  ![Github stars](https://img.shields.io/github/stars/FlorianFuerrutter/genQC.svg)
+- [Quantum circuit synthesis with diffusion models](https://arxiv.org/abs/2311.02041) Diffusion model for QAS. Github: https://github.com/FlorianFuerrutter/genQC. ![Github stars](https://img.shields.io/github/stars/FlorianFuerrutter/genQC.svg)
 
 ## Talks and Tutotials
 - [WQCG, Episode LVII Quantum Architecture Search by Mateusz Ostaszewski](https://www.youtube.com/watch?v=9-UeP0vIv2U)
@@ -88,6 +88,7 @@ Quantum Architecture Search (QAS) is an automated framework that combines machin
 - [Quantum Neural Architecture Search with Quantum Circuits Distance and Bayesian Optimization by Trong Duong](https://www.youtube.com/watch?v=b5Ay3gnoZiM)
 - [Application of ZX-calculus to Quantum Architecture Search by Tom Ewen](https://www.youtube.com/watch?v=7rVUGd6W7kY)
 - [Kolmogorov-Arnold Network for quantum architecture search](https://www.youtube.com/watch?v=gpYoFFnbhu4&t=5862s): From 1:35:07.
+- [Quantum circuit synthesis with diffusion models by Gorka Muñoz Gil | QML CVC webinar](https://www.youtube.com/watch?v=EkTyp4FNzy0)
 
 ## Contributing
 Please follow these steps to contribute:
