@@ -83,12 +83,12 @@ Quantum Architecture Search (QAS) is an automated framework that combines machin
 - [Quantum circuit synthesis with diffusion models](https://arxiv.org/abs/2311.02041) Diffusion model for QAS. Github: https://github.com/FlorianFuerrutter/genQC. ![Github stars](https://img.shields.io/github/stars/FlorianFuerrutter/genQC.svg)
 
 ## Talks and Tutotials
-- [WQCG, Episode LVII Quantum Architecture Search by Mateusz Ostaszewski](https://www.youtube.com/watch?v=9-UeP0vIv2U)
-- [AQIS2020 - Quantum circuit architecture search by Yuxuan Du](https://www.youtube.com/watch?v=xIwYV3v8tV4)
-- [Quantum Neural Architecture Search with Quantum Circuits Distance and Bayesian Optimization by Trong Duong](https://www.youtube.com/watch?v=b5Ay3gnoZiM)
-- [Application of ZX-calculus to Quantum Architecture Search by Tom Ewen](https://www.youtube.com/watch?v=7rVUGd6W7kY)
-- [Kolmogorov-Arnold Network for quantum architecture search](https://www.youtube.com/watch?v=gpYoFFnbhu4&t=5862s): From 1:35:07.
-- [Quantum circuit synthesis with diffusion models by Gorka Muñoz Gil | QML CVC webinar](https://www.youtube.com/watch?v=EkTyp4FNzy0)
+- :video_camera: [WQCG, Episode LVII Quantum Architecture Search by Mateusz Ostaszewski](https://www.youtube.com/watch?v=9-UeP0vIv2U)
+- :video_camera: [AQIS2020 - Quantum circuit architecture search by Yuxuan Du](https://www.youtube.com/watch?v=xIwYV3v8tV4)
+- :video_camera: [Quantum Neural Architecture Search with Quantum Circuits Distance and Bayesian Optimization by Trong Duong](https://www.youtube.com/watch?v=b5Ay3gnoZiM)
+- :video_camera: [Application of ZX-calculus to Quantum Architecture Search by Tom Ewen](https://www.youtube.com/watch?v=7rVUGd6W7kY)
+- :video_camera: [Kolmogorov-Arnold Network for quantum architecture search](https://www.youtube.com/watch?v=gpYoFFnbhu4&t=5862s): From 1:35:07.
+- :video_camera: [Quantum circuit synthesis with diffusion models by Gorka Muñoz Gil | QML CVC webinar](https://www.youtube.com/watch?v=EkTyp4FNzy0)
 
 ## Contributing
 Please follow these steps to contribute:
