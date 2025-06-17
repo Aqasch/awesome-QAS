@@ -1,7 +1,7 @@
 # Awesome QAS (Quantum Architecture Search)
 ![Awesome](https://awesome.re/badge.svg) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-A curated list of standout libraries, tutorials, research papers, and essential resources focused on Quantum Architecture Search (QAS). This collection is designed to serve as a structured and thorough reference, empowering researchers and developers to accelerate their work and stay at the forefront of QAS advancements. Last updated: 6/25
+A curated list of standout libraries, tutorials, research papers, and essential resources focused on Quantum Architecture Search (QAS). This collection is designed to serve as a structured and thorough reference, empowering researchers and developers to accelerate their work and stay at the forefront of QAS advancements. :arrow_up_small: `Last updated: 6/25`
 
 ![QAS](https://github.com/Aqasch/awesome-qas/blob/main/assets/papers_per_year.png)
 
