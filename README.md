@@ -71,7 +71,7 @@ Quantum Architecture Search (QAS) is an automated framework that combines machin
 
 ## Surveys and Reviews
 - [A Brief Survey of Quantum Architecture Search](https://dl.acm.org/doi/10.1145/3564982.3564989) summarizes QAS approaches **till 2023**.
-- [Quantum Architecture Search: A Survey](https://arxiv.org/abs/2406.06210) most recent survay containing result till the **the middle of 2024**.
+- [Quantum Architecture Search: A Survey](https://arxiv.org/abs/2406.06210) most recent survey containing result till the **the middle of 2024**.
 - [Reinforcement learning-assisted quantum architecture search for variational quantum algorithms](https://arxiv.org/abs/2402.13754) Appendix B contains a summary and motive of various QAS approaches till **the end of 2024**.
 
 ## Libraries and Benchmarks
