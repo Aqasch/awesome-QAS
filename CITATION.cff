@@ -4,8 +4,9 @@ authors:
 - family-names: "Kundu"
   given-names: "Akash"
   orcid: "https://orcid.org/0000-0002-3540-1061"
-title: "A curated list of standout libraries, tutorials, research papers, and essential resources focused on Quantum Architecture Search (QAS)"
+title: "awesome-QAS: A curated list of resources for quantum architecture search"
 version: 0.0.1
 doi: 
 date-released: 2025-06-16
+date-accessed: 2026-03-05
 url: "https://github.com/Aqasch/awesome-QAS"
