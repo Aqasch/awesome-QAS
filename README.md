@@ -92,7 +92,7 @@ Quantum Architecture Search (QAS) is an automated framework that combines machin
 - [Zero-shot Quantum Neural Architecture Search (2026)](https://arxiv.org/abs/2605.27410) The paper proposes MZeQAS, a zero-shot QAS framework for variational quantum algorithms that uses a surrogate based on Quantum Neural Tangent Kernel Gram matrix convergence to estimate candidate performance without full training; combined with Monte Carlo Tree Search, the method improves search efficiency and solution quality over existing QAS baselines.
 
 ## Surveys and Reviews
-- - [Reinforcement Learning for Quantum Circuit Optimization](https://openreview.net/pdf?id=h6w1j1fjeZ) The most thorough RL-centric review of quantum circuit optimization to date, organized around MDP design choices and covering ansatz design, compilation and synthesis, transpilation and routing, ZX-calculus simplification, and early fault-tolerant resource optimization.
+- [Reinforcement Learning for Quantum Circuit Optimization](https://openreview.net/pdf?id=h6w1j1fjeZ) The most thorough RL-centric review of quantum circuit optimization to date, organized around MDP design choices and covering ansatz design, compilation and synthesis, transpilation and routing, ZX-calculus simplification, and early fault-tolerant resource optimization.
 - [Reinforcement Learning for Quantum Technology](https://arxiv.org/abs/2601.18953) The most up to date review **till 2025**
 - [A Brief Survey of Quantum Architecture Search](https://dl.acm.org/doi/10.1145/3564982.3564989) summarizes QAS approaches **till 2023**.
 - [Quantum Architecture Search: A Survey](https://arxiv.org/abs/2406.06210) most recent survey containing result till the **the middle of 2024**.
