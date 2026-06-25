@@ -8,7 +8,7 @@ A curated list of standout libraries, tutorials, research papers, and essential 
 ## Table of Contents
 - [Awesome QAS (Quantum Architecture Search)](#awesome-qas-quantum-architecture-search)
 - [Table of Contents](#table-of-contents)
-- [Quantum Architecture Search](#qas)
+- [Quantum Architecture Search](#Quantum-Architecture-Search)
 - [Papers](#papers)
 - [Surveys and Reviews](#surveys-reviews)
 - [Libraries and Benchmarks](#libraries-and-benchmarks)
